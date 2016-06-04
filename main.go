@@ -15,7 +15,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"code.google.com/p/goauth2/oauth"
+	"golang.org/x/oauth2"
 	adsense "google.golang.org/api/adsense/v1.4"
 )
 
